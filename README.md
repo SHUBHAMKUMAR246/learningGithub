@@ -1,4 +1,4 @@
 # learningGithub
 This is my first Git Repository
 <br>
-Auther - Shubham Kumar
+Author - Shubham Kumar
